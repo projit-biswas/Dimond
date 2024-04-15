@@ -20,3 +20,8 @@
     background-position: center;
     background-size: cover
 }
+.product {
+    background-image: url('./assets/ProductImg.png');
+    background-position: center;
+    background-size: cover
+}
