@@ -5,4 +5,11 @@
     background-image: url("./assets/Hero effect.png");
     background-position: center;
     background-size: cover
-};
+}
+
+.design {
+    background-color: black;
+    background-image: url("./assets/DesignImg.png") ;
+    background-position: center;
+    background-size: cover
+}
