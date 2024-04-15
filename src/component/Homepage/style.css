@@ -13,3 +13,10 @@
     background-position: center;
     background-size: cover
 }
+
+.capa {
+    background-color: #444141;
+    background-image: url('./assets/Capabg.png');
+    background-position: center;
+    background-size: cover
+}

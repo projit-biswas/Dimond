@@ -3,6 +3,7 @@ import './App.css'
 import Navbar from './component/Navbar'
 import HeroSection from './component/Homepage/HeroSection'
 import Design from './component/Homepage/Design'
+import Capabilities from './component/Homepage/Capabilities'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,7 +12,8 @@ function App() {
     <>
       <Navbar/>
       {/* <HeroSection/> */}
-      <Design/>
+      {/* <Design/> */}
+      <Capabilities/>
     </>
   )
 }

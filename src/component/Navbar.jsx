@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-    <nav className='w-full font-pop pt-11 text-white relative z-10 bg-orange-400'>
+    <nav className='w-full font-pop pt-11 text-white relative z-10'>
         <div className='w-[254px] h-[47px] mx-auto bg-white text-teal-800 text-center mb-2'>
                 <p>logo</p>
         </div>
